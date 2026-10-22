@@ -85,6 +85,26 @@ Every chapter ends with its own numbered endnotes, so a chapter read on its own 
 
 This report describes practice with an unloaded firearm. It is not a substitute for instruction, and nothing in it relaxes any rule of safe gun handling. Chapter 2 is the one chapter here with no trade-offs in it.
 
-## Licence
+## What's not in scope
 
-[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Share it, adapt it, credit it, don't sell it.
+This is not instruction. It does not teach you to shoot, and it is not a substitute for a qualified instructor or for the published training books it draws on. It is not a buyer's guide in the usual sense: it carries no prices, no scores out of ten, and no single recommendation, because the right setup depends on a room and a routine the report cannot see. And it is not a review — nothing here was bought, borrowed or tested.
+
+What it is: a map of a category, the physics that constrains every product in it, and the failure modes you will meet whichever one you pick.
+
+## Disclaimer
+
+This repository is independent and unofficial. It is not produced, endorsed, sponsored or reviewed by any company whose products it describes. Product and company names are trademarks of their respective owners, used here for descriptive reference only.
+
+No product was bought, borrowed or tested. Every product statement is attributed in the endnotes either to the vendor's own published material as checked in October 2026, or to owner reports gathered from app-store reviews and shooting forums. Where the two disagree, the report says so rather than picking a winner. Several of these products are young, and young products change.
+
+Nothing here is firearms instruction, legal advice, or a statement about what is lawful where you live.
+
+## License
+
+All content in this repository is licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**. See [`LICENSE`](./LICENSE).
+
+The prose may be shared and adapted for non-commercial purposes with attribution. Commercial reuse or redistribution of the written content (including republication as a book, course, or paid resource) is not permitted, and any derivative work must carry the same CC BY-NC-SA 4.0 license.
+
+---
+
+[![Laser Training for Home Shooters cover](./book/Laser-Training-For-Home-Shooters-Cover.jpg)](./book/chapters/00-preface.md)
