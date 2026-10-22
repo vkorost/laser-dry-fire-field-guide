@@ -1,12 +1,14 @@
 # Laser Training for Home Shooters
 
-**A Q4 2026 Survey of Dry-Fire Apps, Targets, and Methods**
+**A Q4 2026 Report on Dry-Fire Apps, Targets, and Methods**
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 *Last updated: October 2026.*
 
-A survey of laser dry-fire training as it stood in the fourth quarter of 2026. Sixteen chapters covering what dry fire is for and where the laser is still argued about, the safety rules that do not relax when the gun is empty, how a camera turns a dot on a wall into a score and a time, the three ways people build a range at home, why trainers register hits that never happened and miss ones that did, what the scoring and the timers actually measure, how these products charge, and what it takes to still be practising in six months.
+A dated report on the laser dry-fire landscape as it stood in Q4 2026: the apps, targets, sensors, scoring, pricing models and practice methods available to a home shooter, built from vendor documentation, owner reports and two published training books.
+
+Sixteen chapters covering what dry fire is for and where the laser is still argued about, the safety rules that do not relax when the gun is empty, how a camera turns a dot on a wall into a score and a time, the three ways people build a range at home, why trainers register hits that never happened and miss ones that did, what the scoring and the timers actually measure, how these products charge, and what it takes to still be practising in six months.
 
 ## The editorial position
 
