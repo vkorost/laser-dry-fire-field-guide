@@ -60,23 +60,27 @@ Every chapter ends with its own numbered endnotes, so a chapter read on its own 
 - [Preface](./book/chapters/00-preface.md)
 
 **The argument and the machinery**
+
 1. [Dry Fire Works, and the Dot Is Controversial](./book/chapters/01-the-dot-problem.md)
 2. [The Rules Do Not Relax When the Gun Is Empty](./book/chapters/02-dry-means-dry.md)
 3. [How a Camera Scores a Shot](./book/chapters/03-how-a-camera-scores-a-shot.md)
 
 **Three ways to build a range**
+
 4. [Three Ways to Build a Home Range](./book/chapters/04-three-ways.md)
 5. [Phones on Tripods, Paper on the Wall](./book/chapters/05-phones-and-paper.md)
 6. [Webcams, Projectors and Screens](./book/chapters/06-webcams-projectors-screens.md)
 7. [Sensors, Reactive Targets and Laserless Trainers](./book/chapters/07-sensors-and-reactive-targets.md)
 
 **When it goes wrong, and what it measures**
+
 8. [Why Your Trainer Misses](./book/chapters/08-why-your-trainer-misses.md)
 9. [Keeping Score](./book/chapters/09-keeping-score.md)
 10. [Timers, Par Times and Splits](./book/chapters/10-timers-and-par-times.md)
 11. [Free, Paid, Bundled](./book/chapters/11-free-paid-bundled.md)
 
 **Keeping it up**
+
 12. [What Keeps People Practicing](./book/chapters/12-what-keeps-people-practicing.md)
 13. [Coaching, and What a Hit Cannot Tell You](./book/chapters/13-coaching.md)
 14. [A Routine That Uses the Technology](./book/chapters/14-a-routine.md)
