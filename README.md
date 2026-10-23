@@ -26,6 +26,13 @@ Two published training books supply the method the technology is measured agains
 
 Both formats are attached to the [latest release](https://github.com/vkorost/laser-dry-fire-field-guide/releases/latest) and always point at the current revision.
 
+## Two reference files, for checking rather than reading
+
+- **[SOURCES.md](./SOURCES.md)** — every vendor page the book was checked against, by product, with what each one establishes, which chapters rest on it, and when it was read. The book's editorial position is only worth anything if you can follow it back to the page, so this is that list.
+- **[CLAIMED-FEATURES.md](./CLAIMED-FEATURES.md)** — what each product's own documentation says it does, side by side: where the target goes, what watches it, which lasers are accepted, what the screen surface has to be, how it calibrates, what it measures and how it charges. It ends with the things **nobody** documents, which is the more useful half.
+
+Both are claims, not findings. Nothing in this report was bought, borrowed or tested, so a row says what a vendor publishes and never that it is true. Chapter 8 is the account of the gap between the two.
+
 ## Why this exists
 
 Dry fire with a laser is a category where the marketing and the instruction disagree, and the reader is left in the middle of it. Vendor pages describe systems that score every shot and fix your trigger pull. Serious instructors are split: one treats the laser as a useful supplement, another argues it teaches you to watch the wall instead of the sights. Both positions are reasoned, and neither is reachable from a product page.
