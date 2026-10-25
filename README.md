@@ -35,6 +35,10 @@ Both are claims, not findings. Nothing in this report was bought, borrowed or te
 
 ## Why this exists
 
+**This report is the research that came before an app.** It was written to answer what already existed in laser dry fire, what the physics of the thing actually permits, and which of the failures owners report are the product's fault and which are the room's — the questions you ask when you are deciding what to build rather than what to buy. The app that came out of it is [ScreenPlink](https://github.com/vkorost/screenplink).
+
+**ScreenPlink is not in this report.** It is not described, scored or compared anywhere in it, and no chapter was shaped to leave room for it. Every product here is somebody else's, checked against their own published pages. Knowing where the report came from is worth more to you than a claim of disinterest would be: it is why these chapters dwell on calibration, on what a camera does with light, and on the things nobody documents — which turn out to be the parts that decide whether any of it works in a real room.
+
 Dry fire with a laser is a category where the marketing and the instruction disagree, and the reader is left in the middle of it. Vendor pages describe systems that score every shot and fix your trigger pull. Serious instructors are split: one treats the laser as a useful supplement, another argues it teaches you to watch the wall instead of the sights. Both positions are reasoned, and neither is reachable from a product page.
 
 Underneath that argument sits a second problem nobody sells you: these systems are a camera in a room, and a camera in a room has opinions about light. A great deal of what owners report as the app being broken is a reflection, a ceiling bulb, a red standby LED, or a cartridge sitting loose in the chamber. Knowing which failures are the product's and which are the room's is the difference between a setup you keep and one that ends up in a drawer.
@@ -107,6 +111,8 @@ What it is: a map of a category, the physics that constrains every product in it
 ## Disclaimer
 
 This repository is independent and unofficial. It is not produced, endorsed, sponsored or reviewed by any company whose products it describes. Product and company names are trademarks of their respective owners, used here for descriptive reference only.
+
+**The author has a product in this category.** This research was done in preparation for building [ScreenPlink](https://github.com/vkorost/screenplink), a laser dry-fire app, and that app is neither described nor assessed anywhere in this report. Nothing here was written to position it. The interest is declared so that you can weigh the report knowing it exists.
 
 No product was bought, borrowed or tested. Every product statement is attributed in the endnotes either to the vendor's own published material as checked in October 2026, or to owner reports gathered from app-store reviews and shooting forums. Where the two disagree, the report says so rather than picking a winner. Several of these products are young, and young products change.
 
